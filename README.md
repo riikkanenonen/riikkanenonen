@@ -3,7 +3,7 @@
 ⚙️ I'm a data engineer with a background in data analysis and competence management. I'm also Agile Master in my Analytics team.  
 🎓 Currently studying Computer Science at the University of Eastern Finland (UEF) with a minor in Data Science.  
 🌱 I'm especially interested in speech recognition, AI, and what's happening "under the hood" of models.  
-📚 Problem-solving is my thing and I enjoy sharing knowledge and diving into new topics with curiosity. I trust in my ability to learn *anything* 😄  
+📚 Problem-solving is my thing and I enjoy sharing knowledge and diving into new topics with curiosity. I trust in my ability to learn *anything*.  
 
 
 ## 🔬 What I'm working on
